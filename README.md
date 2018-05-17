@@ -11,3 +11,4 @@ would not like it because it's PHP but what ever guys, its free.
 IF YOU FACE PROBLEMS CONTACT ME ON DISCORD: https://discord.gg/8KsjVGH
 
 IF YOU HAVE ANY QUESTIONS MAKE  ISSUE
+Furthermore, yes I do know that I uploaded node_modules folder and some other folders where I had to put those in .gitignore but I wanted to make this tutorial as simple as possible
