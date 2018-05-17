@@ -21,6 +21,7 @@ if(isset($_GET['login'])) {
 		} else {
 			if($openid->validate()) {
 				$id = $openid->identity;
+// 				Fixed the login here by just making a https
 				$ptn = "/^https:\/\/steamcommunity\.com\/openid\/id\/(7[0-9]{15,25}+)$/";
 				preg_match($ptn, $id, $matches);
 
